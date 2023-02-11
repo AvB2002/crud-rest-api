@@ -11,3 +11,15 @@ The CRUD API is capable of the following:
 - Can view the student information
 - Can update the student information
 - Can delete the student record
+
+## Screenshots
+
+![Add Student Record](https://github.com/AvB2002/crud-rest-api/blob/main/screenshots/add_student.PNG)
+
+![Delete Student Record](https://github.com/AvB2002/crud-rest-api/blob/main/screenshots/delete_student.PNG)
+
+![Get All Student Records](https://github.com/AvB2002/crud-rest-api/blob/main/screenshots/get_all_students.PNG)
+
+![Get Individual Student Record](https://github.com/AvB2002/crud-rest-api/blob/main/screenshots/get_individual_student.PNG)
+
+![Update Student Record](https://github.com/AvB2002/crud-rest-api/blob/main/screenshots/update_student.PNG)
