@@ -20,7 +20,7 @@ public class StudentController {
     @PostMapping("/addStudent")
     public ResponseEntity addStudent(@RequestBody Student student){
         if(studentService.saveStudent(student) == 1){
-            return new ResponseEntity("Success Insert", HttpStatus.CREATED);
+            return new ResponseEntity("Success Insert1", HttpStatus.CREATED);
         }else {
             return new ResponseEntity("Failed Insert", HttpStatus.BAD_REQUEST);
         }
