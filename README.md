@@ -13,7 +13,7 @@ The CRUD API is capable of the following:
 - Can delete the student record
 
 ## Language(s) used:
-(https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java]
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## Screenshots
 
