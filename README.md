@@ -12,6 +12,9 @@ The CRUD API is capable of the following:
 - Can update the student information
 - Can delete the student record
 
+## Language(s) used:
+(https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java]
+
 ## Screenshots
 
 ![Add Student Record](https://github.com/AvB2002/crud-rest-api/blob/main/screenshots/add_student.PNG)
